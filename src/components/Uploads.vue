@@ -66,7 +66,9 @@ export default {
 #uploads {
   display: flex;
   flex-direction: column;
+  max-width: 500px;
   background-color: #f2f2f4;
+  margin: 0 auto;
   padding: 10px;
   .upload {
     display: flex;
